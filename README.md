@@ -7,8 +7,8 @@ This repository documents my 11-month, sustainable transition into an AWS Cloud 
 This is the roadmap I am following to achieve my certification and project goals.
 
 ##Month 1: Networking Consolidation 
-Status: In Progress
-Goal: Deep understanding of networking and completion of the VPC project.
+- Status: In Progress
+- Goal: Deep understanding of networking and completion of the VPC project.
 
 ##Months 2-3: Linux Fundamentals 
 Status: Pending

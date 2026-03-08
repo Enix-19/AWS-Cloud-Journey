@@ -1,9 +1,9 @@
 # AWS-Cloud-Journey
 
-##About Me
+##About Me : 
 This repository documents my 11-month, sustainable transition into an AWS Cloud Support Engineer role. I am following a structured, realistic plan that allows me to build technical skills while managing my current work commitments.
 
-##Progress Tracker
+##Progress Tracker : 
 This is the roadmap I am following to achieve my certification and project goals.
 
 ##Month 1: Networking Consolidation 

@@ -1,17 +1,21 @@
 # Month 1: Networking Consolidation
 
-## Week 1: Subnetting & VPC Basics
-- [] Subnetting practice problems (25+ solved)
-- [] Created manual VPCs with different CIDR blocks
+## Week 1: Subnetting & VPC Basics & Python Basic
+- [x] Subnetting practice problems (25+ solved)
+- [x] Created manual VPCs with different CIDR blocks
+- [x] Python Basic
 
-## Week 2: Routing & VPC Architecture
+## Week 2: Routing & VPC Architecturec
 - [] Created VPC with 4 subnets (2 public, 2 private)
 - [] Configured route tables and Internet Gateway
+- [] Creating Basic Subnet calculator with Python
 
-## Week 3: Security Groups & NACLs
+## Week 3: Security Groups & NACLs & Python
 - [] Implemented security groups for tiered architecture
 - [] Tested allow/deny traffic rules
+- [] Upgrading Subnet Calculator with more feature in Python
 
-## Week 4: NAT Gateway & Project Completion
+## Week 4: NAT Gateway & Project Completion & JSON
 - [] Deployed NAT Gateway for private subnet internet access
 - [] Finalized VPC project documentation
+- [] Learn JSON

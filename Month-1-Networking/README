@@ -13,7 +13,7 @@
 ## Week 3: Security Groups & NACLs & Python
 - [] Implemented security groups for tiered architecture
 - [] Tested allow/deny traffic rules
-- [] Upgrading Subnet Calculator with more feature in Python
+- [] Upgrading Subnet Calculator with more features in Python
 
 ## Week 4: NAT Gateway & Project Completion & JSON
 - [] Deployed NAT Gateway for private subnet internet access
